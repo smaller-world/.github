@@ -6,4 +6,12 @@ we're building tools for community and human connection.
 
 - [smaller world](https://smallerworld.club) - your new secret blog, for close
   friends ONLY.
+
+  - web platform:
+    [`smaller-world/smallerworld.club`](https://github.com/smaller-world/smallerworld.club)
+  - ios app:
+    [`smaller-world/smallerworld-ios`](https://github.com/smaller-world/smallerworld-ios)
+  - receipt printer client:
+    [`smaller-world/postprint`](https://github.com/smaller-world/postprint)
+
 - [happy town](https://happytown.life) - digital tools for irl third spaces.
